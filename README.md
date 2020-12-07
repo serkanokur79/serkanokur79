@@ -2,7 +2,7 @@
 <h1 align="center">I'm Serkan Okur.</h1> 
 <img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
 
----
+
 - 📚 I’m currently learning Angular, TypeScript and RxJS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
 
