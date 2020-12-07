@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hello! I'm Serkan Okur.</h1> 
+<h1 align="center">I'm Serkan Okur.</h1> 
  
 <!--
   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px">
@@ -21,7 +21,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&lo
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
