@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">I'm Serkan Okur.</h1> 
-
+<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
 
 ---
 - 📚 I’m currently learning Angular, TypeScript and RxJS
@@ -9,7 +9,7 @@
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
+
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
