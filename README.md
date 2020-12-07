@@ -1,9 +1,10 @@
 ### Hi there 👋
 <h1 align="center">I'm Serkan Okur.</h1> 
----
+
 - 📚 I’m currently learning Angular, TypeScript and RxJS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
----
+
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 
