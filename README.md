@@ -9,7 +9,7 @@
 <a align="center" href="https://www.serkanokur.xyz/"><img alt="Website"  align="center" src="https://img.shields.io/website?color=black&down_color=black&label=%20%20%20%20%20%20%20&logo=Sourcegraph&logoColor=white&style=flat-square&up_color=black&up_message=Portfolio&url=https%3A%2F%2Fwww.abdelrahmanbayoumi.ml%2F"></a> <a  align="center" href="https://twitter.com/jsSerkan/"><img align="center"  alt="Website" src="https://img.shields.io/badge/-Twitter-222222?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/jsSerkan/"></a> <a href="https://www.linkedin.com/in/serkan-okur-97623728/" align="center" ><img align="center"  alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serkan-okur-97623728/"></a><a href="https://github.com/serkanokur79/" align="center" ><img align="center"  alt="" src="https://visitor-badge.laobi.icu/badge?page_id=serkanokur79"></a></p>
 
 ---
-- 📚 I’m currently learning Angular
+- 📚 I’m currently learning Angular, TypeScript and RxJS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
 ---
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -21,6 +21,7 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&lo
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
