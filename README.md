@@ -12,7 +12,8 @@
 - 📚 I’m currently learning Angular, TypeScript and RxJS
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
 ---
-<h3> 🛠 &nbsp;Tech Stack</h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px">
+<h3> 🛠 &nbsp;Tech Stack</h3>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="50px">
 
 - 💻 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
