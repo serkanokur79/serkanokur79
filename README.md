@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">I'm Serkan Okur.</h1> 
-<img width="25%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862933-ccbd9c00-d201-11ea-80f2-c4408d7bf622.png" />
+<img width="25%" align="right" alt="Github" src="https://assets.website-files.com/5e9aa66fd3886aa2b4ec01ca/5fa5462124f6db4a79de1899_webdevelopercoding.gif" />
 
 
 - 📚 I’m currently learning Angular, TypeScript and RxJS
