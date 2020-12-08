@@ -1,5 +1,6 @@
 ### Hi there 👋
 <h1 align="center">I'm Serkan Okur.</h1> 
+I am a self-thought frontend developer. I keep learning and applying everyday.
 <img width="25%" align="right" alt="Github" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" />
 
 
