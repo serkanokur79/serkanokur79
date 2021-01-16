@@ -19,7 +19,7 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
-  ![C#](https://img.shields.io/badge/C%23-%20-blue?style=flat&logo=c#)
+  ![C#](https://img.shields.io/badge/C%23-%20-333333?style=flat&logo=c#)
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
