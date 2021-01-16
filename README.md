@@ -4,7 +4,7 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 <img width="25%" align="right" alt="Github" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" />
 
 
-- 📚 I’m currently learning Angular, TypeScript and RxJS
+- 📚 I’m currently learning Angular, TypeScript and C# 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
 
 
