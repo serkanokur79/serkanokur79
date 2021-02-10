@@ -7,17 +7,9 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 - 📚 I’m currently learning Angular, TypeScript and C# 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
 <h3 align="left">Connect with me:</h3>  
-<p align="left">  
-  
-<a href="https://twitter.com/jsserkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsserkan" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/serkan-okur-97623728" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serkan-okur-97623728" height="30" width="40" /></a>
-<a href="https://fb.com/jsserkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jsserkan" height="30" width="40" /></a>  
-<a href="https://instagram.com/_serkan.js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_serkan.js" height="30" width="40" /></a>  
-<a href="https://stackoverflow.com/users/serkan-okur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="serkan-okur" height="30" width="40" /></a>
-<a href="https://codepen.io/serkanokur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="serkanokur" height="30" width="40" /></a>
-<a href="https://codesandbox.com/serkanokur79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="serkanokur79" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/serkan_okur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="serkan_okur" height="30" width="40" /></a>  
-<a href="https://www.leetcode.com/serkanokur79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="serkanokur79" height="30" width="40" /></a>  
+<p align="left"><a href="https://twitter.com/jsserkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="jsserkan" height="30" width="40" /></a><a href="https://linkedin.com/in/serkan-okur-97623728" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="serkan-okur-97623728" height="30" width="40" /></a><a href="https://fb.com/jsserkan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jsserkan" height="30" width="40" /></a>  
+<a href="https://instagram.com/_serkan.js" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_serkan.js" height="30" width="40" /></a><a href="https://stackoverflow.com/users/serkan-okur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="serkan-okur" height="30" width="40" /></a><a href="https://codepen.io/serkanokur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="serkanokur" height="30" width="40" /></a><a href="https://codesandbox.com/serkanokur79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="serkanokur79" height="30" width="40" /></a> 
+<a href="https://www.hackerrank.com/serkan_okur" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="serkan_okur" height="30" width="40" /></a><a href="https://www.leetcode.com/serkanokur79" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="serkanokur79" height="30" width="40" /></a>  
 </p>  
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
