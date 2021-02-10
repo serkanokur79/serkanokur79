@@ -28,7 +28,8 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ---
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /> </p>  
+---
 <h6 align="center">👇🏻 Here are some projects I worked on: 👇🏻</h6>
 
 
