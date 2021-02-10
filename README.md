@@ -1,8 +1,7 @@
 ### Hi there 👋 
 <h1 align="center">I'm Serkan Okur.</h1> 
 I am a self-thought frontend developer. I keep learning and applying everyday.
-<img width="25%" align="right" alt="Github" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" /> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" />
-
+<img width="25%" align="right" alt="Github" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" /> 
 
 - 📚 I’m currently learning Angular, TypeScript and C# 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
@@ -27,6 +26,7 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanokur79&show_icons=true&locale=en" alt="serkanokur79" />  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanokur79&" alt="serkanokur79" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /> </p>
 
 ---
 <h6 align="center">👇🏻 Here are some projects I worked on: 👇🏻</h6>
