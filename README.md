@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">I'm Serkan Okur.</h1> 
+<h1 align="center">I'm Serkan Okur.</h1> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
 I am a self-thought frontend developer. I keep learning and applying everyday.
 <img width="25%" align="right" alt="Github" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" />
 
@@ -24,7 +24,6 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanokur79&show_icons=true&locale=en" alt="serkanokur79" />  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanokur79&" alt="serkanokur79" /></p>
 
