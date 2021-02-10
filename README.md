@@ -28,7 +28,8 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /> </p>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /><a href="https://twitter.com/jsserkan" target="blank"><img src="https://img.shields.io/twitter/follow/jsserkan?logo=twitter&style=for-the-badge" alt="jsserkan" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkanokur79" alt="serkanokur79" /></a> </p>  
 ---
 <h6 align="center">👇🏻 Here are some projects I worked on: 👇🏻</h6>
 
