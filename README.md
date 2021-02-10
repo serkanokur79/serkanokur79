@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1 align="center">I'm Serkan Okur.</h1> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
+### Hi there 👋 <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" />
+<h1 align="center">I'm Serkan Okur.</h1> 
 I am a self-thought frontend developer. I keep learning and applying everyday.
 <img width="25%" align="right" alt="Github" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" />
 
@@ -23,7 +23,8 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico" alt="xd" width="40" height="40"/> </a>   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/favicon.ico" alt="xd" width="40" height="40"/> </a>  
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /> 
+<p align="left"> 
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanokur79&show_icons=true&locale=en" alt="serkanokur79" />  
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanokur79&" alt="serkanokur79" /></p>
 
