@@ -22,6 +22,10 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico" alt="xd" width="40" height="40"/> </a>   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/favicon.ico" alt="xd" width="40" height="40"/> </a>  
 
 ---
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkanokur79" alt="serkanokur79" /></a> </p>
+
+---
 <p align="center"> 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanokur79&show_icons=true&locale=en" alt="serkanokur79" />  
