@@ -3,7 +3,7 @@
 I am a self-thought frontend developer. I keep learning and applying everyday.
 <img width="25%" align="right" alt="Github" src="http://clipart-library.com/img/2064551.gif" /> 
 
-- 📚 I’m currently focused on MERN Stack
+- 📚 I’m currently focused on MERNG Stack
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
 <h3 align="left">Connect with me:</h3>  
 <p align="left"><a href="https://twitter.com/jsserkan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" alt="jsserkan" height="40" width="40" /></a><a href="https://linkedin.com/in/serkan-okur-97623728" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-172-569316.png" alt="serkan-okur-97623728" height="40" width="40" /></a><a href="https://fb.com/jsserkan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-235-569311.png" alt="jsserkan" height="40" width="40" /></a>  
