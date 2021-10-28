@@ -24,17 +24,20 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 
 - 🔧 &nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico" alt="xd" width="40" height="40"/> </a>   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/favicon.ico" alt="xd" width="40" height="40"/> </a>  
-<img width="150" align="center" alt="Github" src="http://clipart-library.com/img/2064551.gif" /> 
 
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkanokur79" alt="serkanokur79" /></a> </p>
 
 
 <p align="center"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=serkanokur79&show_icons=true&locale=en" alt="serkanokur79" />  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serkanokur79&" alt="serkanokur79" /></p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /> </p>
+
+<img align="center" height='130' src="https://github-readme-stats.vercel.app/api/top-langs?username=serkanokur79&show_icons=true&locale=en&layout=compact" alt="serkanokur79" /> 
+<img align="center" height='130' src="https://github-readme-stats.vercel.app/api?username=serkanokur79&show_icons=true&locale=en" alt="serkanokur79" />  
+<img align="center" height='130' src="https://github-readme-streak-stats.herokuapp.com/?user=serkanokur79&" alt="serkanokur79" />
+  </p><p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkanokur79" alt="serkanokur79" height='100' /></a> 
+</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79"  /> 
+
+</p>
 
 
 <h6 align="center">👇🏻 Here are some projects I worked on: 👇🏻</h6>
