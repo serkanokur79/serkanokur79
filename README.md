@@ -3,7 +3,7 @@
 I am a self-thought frontend developer. I keep learning and applying everyday.
 
 
-<a href="https://app.daily.dev/serkanokur"><img src="https://api.daily.dev/devcards/a70d5dfbe2144f9eac0e5697fd0bbd1a.png?r=2vl" width="300" alt="Serkan Okur's Dev Card"  align="right"/></a>
+<a href="https://app.daily.dev/serkanokur"><img src="https://api.daily.dev/devcards/a70d5dfbe2144f9eac0e5697fd0bbd1a.png?r=2vl" width="250" alt="Serkan Okur's Dev Card"  align="right"/></a>
 
 ----
 
