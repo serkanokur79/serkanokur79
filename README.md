@@ -1,9 +1,9 @@
 ### Hi there 👋 
 <h1 align="center">I'm Serkan Okur.</h1> 
 I am a self-thought frontend developer. I keep learning and applying everyday.
-<img width="25%" align="right" alt="Github" src="http://clipart-library.com/img/2064551.gif" /> 
----
-<a href="https://app.daily.dev/serkanokur"><img src="https://api.daily.dev/devcards/a70d5dfbe2144f9eac0e5697fd0bbd1a.png?r=2vl" width="400" alt="Serkan Okur's Dev Card"/></a>
+
+
+<a href="https://app.daily.dev/serkanokur"><img src="https://api.daily.dev/devcards/a70d5dfbe2144f9eac0e5697fd0bbd1a.png?r=2vl" width="300" alt="Serkan Okur's Dev Card"  align="right"/></a>
 
 ----
 
@@ -26,7 +26,7 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 
 - 🔧 &nbsp;
   <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  <a href="https://visualstudio.microsoft.com/vs/" target="_blank"> <img src="https://iconarchive.com/download/i98390/dakirby309/simply-styled/Microsoft-Visual-Studio.ico" alt="xd" width="40" height="40"/> </a>   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://code.visualstudio.com/assets/favicon.ico" alt="xd" width="40" height="40"/> </a>  
-
+<img width="200" align="right" alt="Github" src="http://clipart-library.com/img/2064551.gif" /> 
 ---
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkanokur79" alt="serkanokur79" /></a> </p>
