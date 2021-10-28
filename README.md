@@ -35,6 +35,9 @@ I am a self-thought frontend developer. I keep learning and applying everyday.
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79" /> </p>
 
 ---
+<a href="https://app.daily.dev/serkanokur"><img src="https://api.daily.dev/devcards/a70d5dfbe2144f9eac0e5697fd0bbd1a.png?r=2vl" width="400" alt="Serkan Okur's Dev Card"/></a>
+
+----
 <h6 align="center">👇🏻 Here are some projects I worked on: 👇🏻</h6>
 
 
