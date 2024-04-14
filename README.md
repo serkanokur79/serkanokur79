@@ -1,5 +1,12 @@
 
 <html>
+ <head>
+<style>
+body {background-color: powderblue;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+</head>
  <body>
  <h1 align="center">I'm Serkan Okur.</h1> 
  <p>I am a Frontend Web Developer. As a self-taught coder with a background in instructional design and mathematics education, I am passionate about creating user-friendly web features using React, Next.js, and Tailwind CSS. I enjoy learning new skills and applying them to solve real-world problems. I am always looking for opportunities to improve my code quality, testing functionality, and usability of the web products and services I develop. </p>
