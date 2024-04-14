@@ -1,6 +1,3 @@
-```html
-
-
 
 <h1 align="center">I'm Serkan Okur.</h1> 
 I am a Frontend Web Developer using experience in web development, working with various technologies and frameworks, such as MERN / MERNG Stack, Bootstrap, MaterialUI, and GraphQL.
