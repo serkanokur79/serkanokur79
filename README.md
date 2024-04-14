@@ -9,9 +9,7 @@ As a self-taught coder with a background in instructional design and mathematics
 
 
 
-📫 
--  [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/)
-- [Website](https://serkanokur.com/)
+📫  [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) [Website](https://serkanokur.com/)
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
