@@ -1,7 +1,7 @@
 
 > <h1 align="center">I'm Serkan Okur.</h1> 
->I am a Frontend Web Developer using experience in web development, working with various technologies and frameworks, such as MERN / MERNG Stack, Bootstrap, MaterialUI, and GraphQL.
->As a self-taught coder with a background in instructional design and mathematics education, I am passionate about creating user-friendly web features using React, Next.js, and Tailwind CSS. I enjoy learning new skills and applying them to solve real-world problems. I am always looking for opportunities to improve my code quality, testing functionality, and usability of the web products and services I develop.
+> <p></p>I am a Frontend Web Developer using experience in web development, working with various technologies and frameworks, such as MERN / MERNG Stack, Bootstrap, MaterialUI, and GraphQL.</p>
+> <p>As a self-taught coder with a background in instructional design and mathematics education, I am passionate about creating user-friendly web features using React, Next.js, and Tailwind CSS. I enjoy learning new skills and applying them to solve real-world problems. I am always looking for opportunities to improve my code quality, testing functionality, and usability of the web products and services I develop. </p>
 > <p align="center"><a href="https://www.linkedin.com/in/serkan-okur-97623728/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/72px-LinkedIn_icon.svg.png" alt="html5" width="20" height="20"/> </p>
 
 [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) [Website](https://serkanokur.com/) 
