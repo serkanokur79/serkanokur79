@@ -1,9 +1,7 @@
-```css
+```html
 
- background: black
- color: white
-   
-```
+
+
 <h1 align="center">I'm Serkan Okur.</h1> 
 I am a Frontend Web Developer using experience in web development, working with various technologies and frameworks, such as MERN / MERNG Stack, Bootstrap, MaterialUI, and GraphQL.
 
@@ -35,5 +33,5 @@ As a self-taught coder with a background in instructional design and mathematics
 
 <h6 align="center">👇🏻 Here are some projects I worked on: 👇🏻</h6>
 
-
+```
 
