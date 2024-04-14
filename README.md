@@ -8,14 +8,11 @@ As a self-taught coder with a background in instructional design and mathematics
 <a href="https://app.daily.dev/serkanokur"><img src="https://api.daily.dev/devcards/a70d5dfbe2144f9eac0e5697fd0bbd1a.png?r=2vl" width="250" alt="Serkan Okur's Dev Card"  align="right"/></a>
 
 
-- 📚 I’m currently focused on React and Next.js. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/) 
-<h3 align="left">Connect with me:</h3>  
-<p align="left"><a href="https://twitter.com/jsserkan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/twitter-213-569318.png" alt="jsserkan" height="40" width="40" /></a><a href="https://linkedin.com/in/serkan-okur-97623728" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-172-569316.png" alt="serkan-okur-97623728" height="40" width="40" /></a><a href="https://fb.com/jsserkan" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/facebook-235-569311.png" alt="jsserkan" height="40" width="40" /></a>  
-<a href="https://instagram.com/_serkan.js" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/instagram-198-569476.png" alt="_serkan.js" height="40" width="40" /></a><a href="https://stackoverflow.com/users/serkan-okur" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/stackoverflow-2752065-2284882.png" alt="serkan-okur" height="30" width="30" /></a> <a href="https://codepen.io/serkanokur" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/codepen-283475.png" alt="serkanokur" height="30" width="30" /></a><a href="https://codesandbox.com/serkanokur79" target="blank"><img align="center" src="https://user-images.githubusercontent.com/30775271/101762656-fce54780-3add-11eb-9338-c5965a87a199.png" alt="serkanokur79" height="60" width="60" /></a> 
-<a href="https://www.hackerrank.com/serkan_okur" target="blank"><img align="center" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38712/preview.svg" alt="serkan_okur" height="30" width="30" /></a> <a href="https://www.leetcode.com/serkanokur79" target="blank"><img align="center" src="https://wangtao0101.gallerycdn.vsassets.io/extensions/wangtao0101/debug-leetcode/0.2.2/1586274402348/Microsoft.VisualStudio.Services.Icons.Default" alt="serkanokur79" height="30" width="30" /></a><a href="https://www.codewars.com/users/serkanokur" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="serkanokur" height="30" width="30" /></a>
-  
-</p>  
+
+- 📫 How to reach me:
+  -- [Linkedin](https://www.linkedin.com/in/serkan-okur-97623728/)
+  -- [Website]
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
