@@ -1,6 +1,6 @@
-<style type="text/css" rel="stylesheet">
+<head><style type="text/css" rel="stylesheet">
 * { color: red; }
-</style>
+</style></head> 
 <html>
  <h1 align="center">I'm Serkan Okur.</h1> 
  <p>I am a Frontend Web Developer. As a self-taught coder with a background in instructional design and mathematics education, I am passionate about creating user-friendly web features using React, Next.js, and Tailwind CSS. I enjoy learning new skills and applying them to solve real-world problems. I am always looking for opportunities to improve my code quality, testing functionality, and usability of the web products and services I develop. </p>
