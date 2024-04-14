@@ -12,15 +12,12 @@
 
 
 
-<p align="center"> 
+> <p align="center"> <img align="center" height='130' src="https://github-readme-streak-stats.herokuapp.com/?user=serkanokur79&" alt="serkanokur79" />
+  </p>
 
-<img align="center" height='130' src="https://github-readme-streak-stats.herokuapp.com/?user=serkanokur79&" alt="serkanokur79" />
-  </p><p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkanokur79" alt="serkanokur79" height='100' /></a> 
-</p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79"  /> 
+> <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=serkanokur79" alt="serkanokur79" height='100' /></a></p>
 
-</p>
+> <p align="center"> <img src="https://komarev.com/ghpvc/?username=serkanokur79&label=Profile%20views&color=0e75b6&style=flat" alt="serkanokur79"  /> </p>
 
 
 <h6 align="center">👇🏻 Here are some projects I worked on: 👇🏻</h6>
