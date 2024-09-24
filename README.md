@@ -14,10 +14,7 @@ I'm a motivated Frontend Developer with over four years of experience in develop
 ## Technical Skills
 
 ### Languages
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+- HTML - CSS - JavaScript - TypeScript
 
 ### Frameworks & Libraries
 - React
