@@ -17,8 +17,11 @@ I'm a motivated Frontend Developer with over four years of experience in develop
 - JavaScript / TypeScript
 
 ### Frameworks & Libraries
-- React *Next.js
-- Redux *React Query *Zustand
+- React
+- Next.js
+- Redux
+- React Query
+- Zustand
 - Tailwind CSS
 
 ### Tools & Platforms
@@ -30,6 +33,16 @@ I'm a motivated Frontend Developer with over four years of experience in develop
 - GraphQL
 - Heroku
 
+### Additional Skills
+
+- Bootstrap
+- Material UI
+- Firebase
+- RESTful APIs
+- Continuous Delivery
+- Docker
+
+
 ## Professional Experience
 
 I've worked with companies like **Willbert by Euroloop**, **Finseka**, and **Harveo**, where I:
@@ -40,8 +53,7 @@ I've worked with companies like **Willbert by Euroloop**, **Finseka**, and **Har
 
 ## Expanding Horizons
 
-I'm currently expanding my skill set to include cutting-edge technologies such as:
-
+I'm currently focused on  expanding my skill set to include cutting-edge technologies such as:
 - LangchainJS
 - RAG (Retrieval-Augmented Generation)
 - AI applications in web development
@@ -55,23 +67,6 @@ Before frontend development, I held roles as:
 - Project Manager at Sebit
 
 These experiences provide me with a unique perspective on project lifecycles, user needs, and effective communication strategies.
-
-## Additional Skills
-
-- Bootstrap
-- Material UI
-- Firebase
-- RESTful APIs
-- Continuous Delivery
-- Docker
-
-## Soft Skills
-
-- Excellent communication
-- Problem-solving
-- Team collaboration
-- Coaching
-- Project management
 
 ## Let's Connect!
 
