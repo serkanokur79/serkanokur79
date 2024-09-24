@@ -17,11 +17,8 @@ I'm a motivated Frontend Developer with over four years of experience in develop
 - JavaScript / TypeScript
 
 ### Frameworks & Libraries
-- React
-- Next.js
-- Redux
-- React Query
-- Zustand
+- React *Next.js
+- Redux *React Query *Zustand
 - Tailwind CSS
 
 ### Tools & Platforms
