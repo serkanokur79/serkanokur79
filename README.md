@@ -54,9 +54,8 @@ I've worked with companies like **Willbert by Euroloop**, **Finseka**, and **Har
 ## Expanding Horizons
 
 I'm currently focused on  expanding my skill set to include cutting-edge technologies such as:
-- LangchainJS
-- RAG (Retrieval-Augmented Generation)
 - AI applications in web development
+- Nest.JS
 
 ## Background
 
