@@ -1,9 +1,9 @@
 
 # Hello, I'm Serkan Okur 👋
 
-## Frontend Developer | React & Next.js Specialist | Former Instructional Designer & Product Owner
+## Fullstack Web Developer | React & Next.js | Former Instructional Designer & Product Owner
 
-I'm a motivated Frontend Developer with over four years of experience in developing and implementing innovative and scalable solutions. I specialize in building dynamic and responsive web applications using React, Next.js, and TypeScript.
+I'm a motivated FullStack Developer with over four years of experience in developing and implementing innovative and scalable solutions. I specialize in building dynamic and responsive web applications using React, Next.js, and TypeScript.
 
 ## Expertise
 
@@ -23,15 +23,16 @@ I'm a motivated Frontend Developer with over four years of experience in develop
 - React Query
 - Zustand
 - Tailwind CSS
-
-### Tools & Platforms
-- Git/GitHub/GitLab
-- Digital Ocean
 - Node.js
 - Express
 - MongoDB
 - GraphQL
-- Heroku
+
+### Tools & Platforms
+- Git/GitHub/GitLab
+- Digital Ocean
+- Vercel
+- Railway
 
 ### Additional Skills
 
@@ -51,11 +52,6 @@ I've worked with companies like **Willbert by Euroloop**, **Finseka**, and **Har
 - Maintained and optimized responsive website pages
 - Conducted comprehensive testing for scalability and functionality
 
-## Expanding Horizons
-
-I'm currently focused on  expanding my skill set to include cutting-edge technologies such as:
-- AI applications in web development
-- Nest.JS
 
 ## Background
 
